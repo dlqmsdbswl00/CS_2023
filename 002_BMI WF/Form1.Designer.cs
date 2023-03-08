@@ -41,18 +41,18 @@
             this.lbl_cm.AutoSize = true;
             this.lbl_cm.Location = new System.Drawing.Point(12, 56);
             this.lbl_cm.Name = "lbl_cm";
-            this.lbl_cm.Size = new System.Drawing.Size(17, 12);
+            this.lbl_cm.Size = new System.Drawing.Size(29, 12);
             this.lbl_cm.TabIndex = 0;
-            this.lbl_cm.Text = "키";
+            this.lbl_cm.Text = "키 : ";
             // 
             // lbl_kg
             // 
             this.lbl_kg.AutoSize = true;
             this.lbl_kg.Location = new System.Drawing.Point(12, 92);
             this.lbl_kg.Name = "lbl_kg";
-            this.lbl_kg.Size = new System.Drawing.Size(29, 12);
+            this.lbl_kg.Size = new System.Drawing.Size(41, 12);
             this.lbl_kg.TabIndex = 1;
-            this.lbl_kg.Text = "체중";
+            this.lbl_kg.Text = "체중 : ";
             // 
             // txt_cm
             // 

@@ -23,6 +23,7 @@ namespace _002_BMI_WF
             double height = double.Parse(txt_cm.Text);
             double BMI = weight / (height / 100 * height / 100);
             lbl_bmi.Text = "BMI = " + BMI;
+            lbl_bmi.Text = String.Format("BMI = ", BMI);
         }
     }
 }
