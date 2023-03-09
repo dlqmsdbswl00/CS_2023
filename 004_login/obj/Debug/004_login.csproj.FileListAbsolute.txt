@@ -1,0 +1,11 @@
+C:\Users\konyang\source\repos\CS_2023\004_login\bin\Debug\004_login.exe.config
+C:\Users\konyang\source\repos\CS_2023\004_login\bin\Debug\004_login.exe
+C:\Users\konyang\source\repos\CS_2023\004_login\bin\Debug\004_login.pdb
+C:\Users\konyang\source\repos\CS_2023\004_login\obj\Debug\004_login.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\CS_2023\004_login\obj\Debug\004_login.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\source\repos\CS_2023\004_login\obj\Debug\_004_login.FormLogin.resources
+C:\Users\konyang\source\repos\CS_2023\004_login\obj\Debug\_004_login.Properties.Resources.resources
+C:\Users\konyang\source\repos\CS_2023\004_login\obj\Debug\004_login.csproj.GenerateResource.cache
+C:\Users\konyang\source\repos\CS_2023\004_login\obj\Debug\004_login.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\CS_2023\004_login\obj\Debug\004_login.exe
+C:\Users\konyang\source\repos\CS_2023\004_login\obj\Debug\004_login.pdb
