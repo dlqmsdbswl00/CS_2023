@@ -34,12 +34,15 @@
             this.txt_kg = new System.Windows.Forms.TextBox();
             this.btn_BMI = new System.Windows.Forms.Button();
             this.lbl_bmi = new System.Windows.Forms.Label();
+            this.lbl_result = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // lbl_cm
             // 
             this.lbl_cm.AutoSize = true;
-            this.lbl_cm.Location = new System.Drawing.Point(12, 56);
+            this.lbl_cm.Location = new System.Drawing.Point(22, 43);
             this.lbl_cm.Name = "lbl_cm";
             this.lbl_cm.Size = new System.Drawing.Size(29, 12);
             this.lbl_cm.TabIndex = 0;
@@ -48,7 +51,7 @@
             // lbl_kg
             // 
             this.lbl_kg.AutoSize = true;
-            this.lbl_kg.Location = new System.Drawing.Point(12, 92);
+            this.lbl_kg.Location = new System.Drawing.Point(22, 79);
             this.lbl_kg.Name = "lbl_kg";
             this.lbl_kg.Size = new System.Drawing.Size(41, 12);
             this.lbl_kg.TabIndex = 1;
@@ -56,7 +59,7 @@
             // 
             // txt_cm
             // 
-            this.txt_cm.Location = new System.Drawing.Point(56, 47);
+            this.txt_cm.Location = new System.Drawing.Point(66, 34);
             this.txt_cm.Name = "txt_cm";
             this.txt_cm.Size = new System.Drawing.Size(100, 21);
             this.txt_cm.TabIndex = 2;
@@ -64,7 +67,7 @@
             // 
             // txt_kg
             // 
-            this.txt_kg.Location = new System.Drawing.Point(56, 83);
+            this.txt_kg.Location = new System.Drawing.Point(66, 70);
             this.txt_kg.Name = "txt_kg";
             this.txt_kg.Size = new System.Drawing.Size(100, 21);
             this.txt_kg.TabIndex = 3;
@@ -72,7 +75,7 @@
             // 
             // btn_BMI
             // 
-            this.btn_BMI.Location = new System.Drawing.Point(81, 119);
+            this.btn_BMI.Location = new System.Drawing.Point(91, 106);
             this.btn_BMI.Name = "btn_BMI";
             this.btn_BMI.Size = new System.Drawing.Size(75, 23);
             this.btn_BMI.TabIndex = 4;
@@ -83,16 +86,34 @@
             // lbl_bmi
             // 
             this.lbl_bmi.AutoSize = true;
-            this.lbl_bmi.Location = new System.Drawing.Point(12, 124);
+            this.lbl_bmi.Location = new System.Drawing.Point(19, 111);
             this.lbl_bmi.Name = "lbl_bmi";
             this.lbl_bmi.Size = new System.Drawing.Size(0, 12);
             this.lbl_bmi.TabIndex = 5;
+            // 
+            // lbl_result
+            // 
+            this.lbl_result.AutoSize = true;
+            this.lbl_result.Location = new System.Drawing.Point(19, 136);
+            this.lbl_result.Name = "lbl_result";
+            this.lbl_result.Size = new System.Drawing.Size(0, 12);
+            this.lbl_result.TabIndex = 6;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(91, 135);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(75, 38);
+            this.pictureBox1.TabIndex = 7;
+            this.pictureBox1.TabStop = false;
             // 
             // BMI_form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(190, 185);
+            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.lbl_result);
             this.Controls.Add(this.lbl_bmi);
             this.Controls.Add(this.btn_BMI);
             this.Controls.Add(this.txt_kg);
@@ -101,6 +122,7 @@
             this.Controls.Add(this.lbl_cm);
             this.Name = "BMI_form";
             this.Text = "BMI계산기";
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -114,6 +136,8 @@
         private System.Windows.Forms.TextBox txt_kg;
         private System.Windows.Forms.Button btn_BMI;
         private System.Windows.Forms.Label lbl_bmi;
+        private System.Windows.Forms.Label lbl_result;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
 
