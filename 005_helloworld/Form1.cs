@@ -37,7 +37,5 @@ namespace _005_helloworld
                 lblHW.ForeColor = Color.Black;
             }
         }
-
-        
     }
 }
