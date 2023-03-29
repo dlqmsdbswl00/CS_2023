@@ -37,9 +37,7 @@ namespace _009_CheckBox
             foreach (var c in cBox)
             {
                 if (c.Checked /*== true*/) 
-                {
                     summary += c.Text + " ";
-                }
             }
             MessageBox.Show(summary, "summary"); 
         }

@@ -36,9 +36,7 @@ namespace _012_for_1_100
             Console.Write("구구단의 단을 입력 : ");
             int x = int.Parse(Console.ReadLine());
             for (int i = 1; i <= 9; i++)
-            {
                 Console.WriteLine("{0}x{1}={2}", x, i,x*i);
-            }
             Console.WriteLine("");
 
 
@@ -61,7 +59,6 @@ namespace _012_for_1_100
             for (int i = 1;i <= k; i++)
                 fact *= i;
             Console.WriteLine("{0}의 팩토리얼 = {1}", k, fact);
-
         }
     }
 }

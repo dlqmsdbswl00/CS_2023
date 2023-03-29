@@ -24,7 +24,6 @@ namespace _011_score
                 + Convert.ToDouble(txtEng.Text);
 
             double avg = sum / 3;
-
             txtSum.Text = sum.ToString();
             txtAvg.Text = avg.ToString("0.00");
         }

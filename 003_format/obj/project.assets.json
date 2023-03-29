@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\konyang\\.nuget\\packages\\": {}
+    "C:\\Users\\dlqms\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\konyang\\source\\repos\\CS_2023\\003_format\\003_format.csproj",
+      "projectUniqueName": "C:\\Users\\dlqms\\Source\\Repos\\CS_2023\\003_format\\003_format.csproj",
       "projectName": "003_format",
-      "projectPath": "C:\\Users\\konyang\\source\\repos\\CS_2023\\003_format\\003_format.csproj",
-      "packagesPath": "C:\\Users\\konyang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\konyang\\source\\repos\\CS_2023\\003_format\\obj\\",
+      "projectPath": "C:\\Users\\dlqms\\Source\\Repos\\CS_2023\\003_format\\003_format.csproj",
+      "packagesPath": "C:\\Users\\dlqms\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dlqms\\Source\\Repos\\CS_2023\\003_format\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\konyang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dlqms\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

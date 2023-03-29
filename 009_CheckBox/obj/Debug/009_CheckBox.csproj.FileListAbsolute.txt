@@ -1,0 +1,11 @@
+C:\Users\dlqms\Source\Repos\CS_2023\009_CheckBox\bin\Debug\009_CheckBox.exe.config
+C:\Users\dlqms\Source\Repos\CS_2023\009_CheckBox\bin\Debug\009_CheckBox.exe
+C:\Users\dlqms\Source\Repos\CS_2023\009_CheckBox\bin\Debug\009_CheckBox.pdb
+C:\Users\dlqms\Source\Repos\CS_2023\009_CheckBox\obj\Debug\009_CheckBox.csproj.AssemblyReference.cache
+C:\Users\dlqms\Source\Repos\CS_2023\009_CheckBox\obj\Debug\009_CheckBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\dlqms\Source\Repos\CS_2023\009_CheckBox\obj\Debug\_009_CheckBox.Form1.resources
+C:\Users\dlqms\Source\Repos\CS_2023\009_CheckBox\obj\Debug\_009_CheckBox.Properties.Resources.resources
+C:\Users\dlqms\Source\Repos\CS_2023\009_CheckBox\obj\Debug\009_CheckBox.csproj.GenerateResource.cache
+C:\Users\dlqms\Source\Repos\CS_2023\009_CheckBox\obj\Debug\009_CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\dlqms\Source\Repos\CS_2023\009_CheckBox\obj\Debug\009_CheckBox.exe
+C:\Users\dlqms\Source\Repos\CS_2023\009_CheckBox\obj\Debug\009_CheckBox.pdb
