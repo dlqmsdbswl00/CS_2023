@@ -1,0 +1,8 @@
+C:\Users\dlqms\Source\Repos\CS_2023\015_min max\bin\Debug\015_min max.exe.config
+C:\Users\dlqms\Source\Repos\CS_2023\015_min max\bin\Debug\015_min max.exe
+C:\Users\dlqms\Source\Repos\CS_2023\015_min max\bin\Debug\015_min max.pdb
+C:\Users\dlqms\Source\Repos\CS_2023\015_min max\obj\Debug\015_min max.csproj.AssemblyReference.cache
+C:\Users\dlqms\Source\Repos\CS_2023\015_min max\obj\Debug\015_min max.csproj.SuggestedBindingRedirects.cache
+C:\Users\dlqms\Source\Repos\CS_2023\015_min max\obj\Debug\015_min max.csproj.CoreCompileInputs.cache
+C:\Users\dlqms\Source\Repos\CS_2023\015_min max\obj\Debug\015_min max.exe
+C:\Users\dlqms\Source\Repos\CS_2023\015_min max\obj\Debug\015_min max.pdb

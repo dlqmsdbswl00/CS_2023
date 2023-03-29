@@ -1,0 +1,8 @@
+C:\Users\dlqms\Source\Repos\CS_2023\014_Class\bin\Debug\014_Class.exe.config
+C:\Users\dlqms\Source\Repos\CS_2023\014_Class\bin\Debug\014_Class.exe
+C:\Users\dlqms\Source\Repos\CS_2023\014_Class\bin\Debug\014_Class.pdb
+C:\Users\dlqms\Source\Repos\CS_2023\014_Class\obj\Debug\014_Class.csproj.AssemblyReference.cache
+C:\Users\dlqms\Source\Repos\CS_2023\014_Class\obj\Debug\014_Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\dlqms\Source\Repos\CS_2023\014_Class\obj\Debug\014_Class.csproj.CoreCompileInputs.cache
+C:\Users\dlqms\Source\Repos\CS_2023\014_Class\obj\Debug\014_Class.exe
+C:\Users\dlqms\Source\Repos\CS_2023\014_Class\obj\Debug\014_Class.pdb

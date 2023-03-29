@@ -1,0 +1,8 @@
+C:\Users\dlqms\Source\Repos\CS_2023\013_arr\bin\Debug\013_arr.exe.config
+C:\Users\dlqms\Source\Repos\CS_2023\013_arr\bin\Debug\013_arr.exe
+C:\Users\dlqms\Source\Repos\CS_2023\013_arr\bin\Debug\013_arr.pdb
+C:\Users\dlqms\Source\Repos\CS_2023\013_arr\obj\Debug\013_arr.csproj.AssemblyReference.cache
+C:\Users\dlqms\Source\Repos\CS_2023\013_arr\obj\Debug\013_arr.csproj.SuggestedBindingRedirects.cache
+C:\Users\dlqms\Source\Repos\CS_2023\013_arr\obj\Debug\013_arr.csproj.CoreCompileInputs.cache
+C:\Users\dlqms\Source\Repos\CS_2023\013_arr\obj\Debug\013_arr.exe
+C:\Users\dlqms\Source\Repos\CS_2023\013_arr\obj\Debug\013_arr.pdb
