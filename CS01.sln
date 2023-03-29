@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "016_chart2", "016_chart2\01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017_graph", "017_graph\017_graph.csproj", "{EE5F7BB7-8C93-436B-A098-9ACB73CE05D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020_FormClock", "020_FormClock\020_FormClock.csproj", "{F58B092D-62F2-4A55-A678-B02220A21945}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{EE5F7BB7-8C93-436B-A098-9ACB73CE05D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE5F7BB7-8C93-436B-A098-9ACB73CE05D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE5F7BB7-8C93-436B-A098-9ACB73CE05D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F58B092D-62F2-4A55-A678-B02220A21945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58B092D-62F2-4A55-A678-B02220A21945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58B092D-62F2-4A55-A678-B02220A21945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58B092D-62F2-4A55-A678-B02220A21945}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
