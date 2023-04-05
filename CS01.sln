@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021_adClock", "021_adClock\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "022_2Forms", "022_2Forms\022_2Forms.csproj", "{9446F6DD-BCA8-4B50-9D57-24686B388763}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "023_firebase", "023_firebase\023_firebase.csproj", "{FD4DBCC8-68A4-4512-B74F-BC65250F7109}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{9446F6DD-BCA8-4B50-9D57-24686B388763}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9446F6DD-BCA8-4B50-9D57-24686B388763}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9446F6DD-BCA8-4B50-9D57-24686B388763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4DBCC8-68A4-4512-B74F-BC65250F7109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4DBCC8-68A4-4512-B74F-BC65250F7109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4DBCC8-68A4-4512-B74F-BC65250F7109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4DBCC8-68A4-4512-B74F-BC65250F7109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
